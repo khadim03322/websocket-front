@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "websocket-front"
+  "defaultProject": "websocket-front",
+  "cli": {
+    "analytics": "ba7796ab-da99-496a-92aa-b59bb19a7857"
+  }
 }
